@@ -26,7 +26,6 @@
       <code>SYS_ID:</code> <b>ARCH_PRIME</b><br>
       <code>USER:</code> <b>ABHISHEK YADAV</b><br>
       <code>LOC:</code> <b>KANPUR_IN</b><br>
-      <code>VRAM_LIM:</code> <b>3.5GB [FORCED]</b><br>
       <code>MODE:</code> <b>DEV_OVERRIDE</b><br>
       <code>WM:</code> <b>HYPRLAND</b><br>
       <code>GOAL:</code> <b>JAPAN 🗾</b><br>
