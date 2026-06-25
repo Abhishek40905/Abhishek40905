@@ -29,7 +29,6 @@
 `LOC` **KANPUR, IN**<br>
 `WM` **HYPRLAND**<br>
 `MODE` **DEV_OVERRIDE**<br>
-`GOAL` **JAPAN 🗾**
 
 <br>
 
