@@ -175,7 +175,7 @@
 <!--                        GITHUB METRICS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=500&color=FF003C&center=true&vCenter=true&width=400&lines=SYSTEM_TELEMETRY+%2F%2F+LIVE_FEED" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek40905&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=B026FF&text_color=C9D1D9&ring_color=FF003C" width="49%" />
@@ -188,7 +188,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishek40905&style=for-the-badge&color=FF003C&label=PROFILE+INTRUSIONS" />
-</div>
+</div> -->
 
 <br>
 
