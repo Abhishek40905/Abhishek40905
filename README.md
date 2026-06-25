@@ -9,10 +9,10 @@
 <br>
 
 <table align="center" style="border: none; background-color: transparent; width: 100%;">
-  <tr style="border: none; background-color: transparent;">
+<tr style="border: none; background-color: transparent;">
     
-    <td valign="top" width="40%" style="border: none; padding-right: 20px;">
-<pre style="color: #FF003C; font-weight: bold; background: transparent; border: none;">
+<td valign="top" width="40%" style="border: none; padding-right: 20px;">
+<pre style="color: #FF003C; font-weight: bold; background: transparent; border: none; font-family: monospace;">
  ▄▄▄       ██▀███   ▄████▄   ██░ ██ 
 ▒████▄    ▓██ ▒ ██▒▒██▀ ▀█  ▓██░ ██▒
 ▒██  ▀█▄  ▓██ ░▄█ ▒▒▓█    ▄ ▒██▀▀██░
@@ -20,26 +20,26 @@
  ▓█   ▓██▒░██▓ ▒██▒▒ ▓███▀ ░░▓█▒░██▓
  ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ░▒ ▒  ░ ▒ ░░▒░▒
 </pre>
-      <code>SYS_ID:</code> <b>ARCH_PRIME</b><br>
-      <code>USER:</code> <b>ABHISHEK YADAV</b><br>
-      <code>LOC:</code> <b>KANPUR_IN</b><br>
-      <code>VRAM_LIM:</code> <b>3.5GB [FORCED]</b><br>
-      <code>MODE:</code> <b>DEV_OVERRIDE</b><br>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,js,ts,react,arch,linux&theme=dark&perline=3" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,aws,docker,kubernetes,tensorflow,arduino&theme=dark&perline=3" />
-      </a>
-    </td>
+<code>SYS_ID:</code> <b>ARCH_PRIME</b><br>
+<code>USER:</code> <b>ABHISHEK YADAV</b><br>
+<code>LOC:</code> <b>KANPUR_IN</b><br>
+<code>VRAM_LIM:</code> <b>3.5GB [FORCED]</b><br>
+<code>MODE:</code> <b>DEV_OVERRIDE</b><br>
+<br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,arch,linux&theme=dark&perline=3" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,aws,docker,kubernetes,tensorflow,arduino&theme=dark&perline=3" />
+</a>
+</td>
 
-    <td valign="middle" width="60%" style="border: none; text-align: center;">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=header&text=GUARDIAN_DAEMON_ONLINE&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
-      <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5N29nbm91ZXN0MXRndXNid3N6bnduNWF0Ym80bXN6NmZpZmszcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d10xL5808BqjDbgc/giphy.gif" width="85%" style="filter: drop-shadow(0px 0px 15px #FF003C); transform: scaleX(-1); mix-blend-mode: lighten;" alt="Cyber Dragon" />
-    </td>
+<td valign="middle" width="60%" style="border: none; text-align: center;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=header&text=GUARDIAN_DAEMON_ONLINE&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
+<br><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5N29nbm91ZXN0MXRndXNid3N6bnduNWF0Ym80bXN6NmZpZmszcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d10xL5808BqjDbgc/giphy.gif" width="85%" style="filter: drop-shadow(0px 0px 15px #FF003C); transform: scaleX(-1); mix-blend-mode: lighten;" alt="Cyber Dragon" />
+</td>
     
-  </tr>
+</tr>
 </table>
 
 <div align="center">
