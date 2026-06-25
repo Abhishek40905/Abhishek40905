@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <!-- High-speed red/black typing SVG with glitchy text -->
+  <!-- High-speed red/black typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=26&pause=300&color=FF003C&center=true&vCenter=true&width=800&lines=%3E_WARNING%3A+SYSTEM+OVERRIDE+DETECTED...;%3E_INITIALIZING%3A+ABHISHEK_YADAV.BIN;%3E_DOMINANT_LANGS%3A+[JS]+%2F%2F+[PYTHON];%3E_BYPASSING_DEAD_SENSOR(S8)...;%3E_TOTAL_CHAOS_MODE%3A+[ENGAGED];" />
 </div>
 
@@ -37,33 +37,33 @@
       </a>
     </td>
 
-    <!-- RIGHT COLUMN: CORRUPTED LOGS / PROJECTS -->
+    <!-- RIGHT COLUMN: HIGH-SIGNAL PROCESSES -->
     <td valign="top" width="65%" style="border: none;">
-      <h3><code>>_ DECRYPTED_TRANSMISSION_LOGS</code></h3>
+      <h3><code>>_ CORE_SYSTEM_PROCESSES</code></h3>
       
       <blockquote>
-        <b>[ERR_01] FRAMEWORK_FREE_RAG_PROTOCOL</b><br>
-        Bypassed standard LLM frameworks[cite: 1]. Custom RAG pipeline extracting raw <code>data.json</code> from UIET department. Llama 3.2 + Gemini synthetic loop running completely offline. Local directories (Desktop/Downloads) secured in backup scripts.
+        <b>[EXEC: RAG_PIPELINE]</b><br>
+        Engineered framework-free RAG processing UIET data directly from local <code>data.json</code> files[cite: 1], bypassing live APIs. Zero-latency Llama 3.2 + Gemini synthesis[cite: 1]. System backups automatically secure <code>Desktop</code> and <code>Downloads</code> directories.
       </blockquote>
       
       <blockquote>
-        <b>[EXEC_02] PHYSICAL_ROBOTICS_OVERRIDE</b><br>
-        Tech Lead @ Ancome Vortex. Back-to-back Robo Rumble Champion ('25, '26). Dynamic PID matrix tuning (Kp, Ki, Kd) for ESP32/STM32 hardware[cite: 1]. <i>Note: S8 IR sensor designated dead. Logic dynamically re-routed mid-execution.</i>
+        <b>[EXEC: EDGE_ROBOTICS]</b><br>
+        Tech Lead @ Ancome Vortex[cite: 1]. Robo Rumble Champion ('25, '26)[cite: 1]. Built a networked control interface utilizing sliders for real-time Kp, Kd, and Ki tuning on ESP32/STM32 hardware. Engineered resilient firmware logic to dynamically bypass faulty S8 IR sensors.
       </blockquote>
       
       <blockquote>
-        <b>[WARN_03] VRAM_THROTTLE_ACTIVE</b><br>
-        Real-time WebRTC physical hazard detection[cite: 1]. Florence-2 + Moondream2 VLMs forced to operate strictly under a 3.5GB edge VRAM limit[cite: 1]. 
+        <b>[EXEC: VRAM_THROTTLE]</b><br>
+        Architected low-latency WebRTC physical hazard detection[cite: 1]. Florence-2 + Moondream2 VLMs optimized to run deterministically within a strict 3.5GB edge VRAM limit[cite: 1]. 
       </blockquote>
       
       <blockquote>
-        <b>[SYS_04] AIR_GAPPED_INFILTRATION</b><br>
-        Autonomous Playwright agent intercepting virtual audio streams[cite: 1]. Whisper + Pyannote diarization mapping temporal vectors via ChromaDB[cite: 1].
+        <b>[EXEC: AIR_GAPPED_AUDIO]</b><br>
+        Autonomous Playwright agent intercepting virtual audio streams[cite: 1]. Real-time Whisper + Pyannote diarization mapping temporal vectors via ChromaDB[cite: 1].
       </blockquote>
       
       <blockquote>
-        <b>[NET_05] CLOUD_INFRA_MIGRATION</b><br>
-        Firebase core extracted. Samwaad event DB ported to scalable K8s clusters[cite: 1]. AWS EC2 bi-directional GitHub sync active[cite: 1]. Admin branch protection enforced manually—repo bloat rejected.
+        <b>[EXEC: K8S_INFRASTRUCTURE]</b><br>
+        Migrated Samwaad Firebase DB to scalable Kubernetes clusters[cite: 1]. Node.js/AWS EC2 backend active with bi-directional GitHub sync[cite: 1]. Repository branch protection removed to streamline manual admin control.
       </blockquote>
     </td>
     
