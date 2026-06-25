@@ -1,76 +1,64 @@
 <div align="center">
-  <!-- Aggressive Glitch/Cyberpunk Header -->
-  <img src="https://i.pinimg.com/originals/24/cf/c9/24cfc92f4e4e9dc01e0a969b7681de37.gif" width="100%" height="150px" style="object-fit: cover;" alt="SYSTEM COMPROMISED" />
-</div>
-
-<div align="center">
-  <!-- High-speed red/black typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=26&pause=300&color=FF003C&center=true&vCenter=true&width=800&lines=%3E_WARNING%3A+SYSTEM+OVERRIDE+DETECTED...;%3E_INITIALIZING%3A+ABHISHEK_YADAV.BIN;%3E_DOMINANT_LANGS%3A+[JS]+%2F%2F+[PYTHON];%3E_BYPASSING_DEAD_SENSOR(S8)...;%3E_TOTAL_CHAOS_MODE%3A+[ENGAGED];" />
+  <!-- Sleek, minimalist typography animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Abhishek+Yadav;Software+Engineer+%26+Hardware+Architect;Building+Zero-Latency+Systems;UIET+CSJMU+|+Kanpur" alt="Typing SVG" />
 </div>
 
 <br>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    
-    <!-- LEFT COLUMN: RAW SYSTEM SPECS & ASCII -->
-    <td valign="top" width="35%" style="border: none;">
-      <pre>
- ▄▄▄       ██▀███   ▄████▄   ██░ ██ 
-▒████▄    ▓██ ▒ ██▒▒██▀ ▀█  ▓██░ ██▒
-▒██  ▀█▄  ▓██ ░▄█ ▒▒▓█    ▄ ▒██▀▀██░
-░██▄▄▄▄██ ▒██▀▀█▄  ▒▓▓▄ ▄██▒░▓█ ░██ 
- ▓█   ▓██▒░██▓ ▒██▒▒ ▓███▀ ░░▓█▒░██▓
- ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ░▒ ▒  ░ ▒ ░░▒░▒
-      </pre>
-      <code>SYS_ID:</code> <b>ARCH_PRIME</b><br>
-      <code>USER:</code> <b>ABHISHEK YADAV</b><br>
-      <code>LOC:</code> <b>KANPUR_IN</b><br>
-      <code>VRAM_LIM:</code> <b>3.5GB [FORCED]</b><br>
-      <code>MODE:</code> <b>DEV_OVERRIDE</b><br>
-      <br>
-      <!-- Scattered, non-uniform skill grid for chaotic feel -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,js,ts,react,arch,linux&theme=dark&perline=3" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,aws,docker,kubernetes,tensorflow,arduino&theme=dark&perline=3" />
-      </a>
-    </td>
+### ◾ Profile
 
-    <!-- RIGHT COLUMN: HIGH-SIGNAL PROCESSES -->
-    <td valign="top" width="65%" style="border: none;">
-      <h3><code>>_ CORE_SYSTEM_PROCESSES</code></h3>
-      
-      <blockquote>
-        <b>[EXEC: RAG_PIPELINE]</b><br>
-        Engineered framework-free RAG processing UIET data directly from local <code>data.json</code> files[cite: 1], bypassing live APIs. Zero-latency Llama 3.2 + Gemini synthesis[cite: 1]. System backups automatically secure <code>Desktop</code> and <code>Downloads</code> directories.
-      </blockquote>
-      
-      <blockquote>
-        <b>[EXEC: EDGE_ROBOTICS]</b><br>
-        Tech Lead @ Ancome Vortex[cite: 1]. Robo Rumble Champion ('25, '26)[cite: 1]. Built a networked control interface utilizing sliders for real-time Kp, Kd, and Ki tuning on ESP32/STM32 hardware. Engineered resilient firmware logic to dynamically bypass faulty S8 IR sensors.
-      </blockquote>
-      
-      <blockquote>
-        <b>[EXEC: VRAM_THROTTLE]</b><br>
-        Architected low-latency WebRTC physical hazard detection[cite: 1]. Florence-2 + Moondream2 VLMs optimized to run deterministically within a strict 3.5GB edge VRAM limit[cite: 1]. 
-      </blockquote>
-      
-      <blockquote>
-        <b>[EXEC: AIR_GAPPED_AUDIO]</b><br>
-        Autonomous Playwright agent intercepting virtual audio streams[cite: 1]. Real-time Whisper + Pyannote diarization mapping temporal vectors via ChromaDB[cite: 1].
-      </blockquote>
-      
-      <blockquote>
-        <b>[EXEC: K8S_INFRASTRUCTURE]</b><br>
-        Migrated Samwaad Firebase DB to scalable Kubernetes clusters[cite: 1]. Node.js/AWS EC2 backend active with bi-directional GitHub sync[cite: 1]. Repository branch protection removed to streamline manual admin control.
-      </blockquote>
-    </td>
-    
-  </tr>
-</table>
+B.Tech CSE undergraduate[cite: 1] and Full-Stack AI Developer[cite: 1] specializing in low-latency machine learning pipelines and edge robotics. Operating at the intersection of high-level software architecture and physical hardware execution. 
+
+**Environment:** Arch Linux | Hyprland | Full Developer Mode
+
+---
+
+### ◾ Technical Arsenal
 
 <div align="center">
-  <!-- Minimalist, fast repeating binary or glitch bar at the bottom -->
-  <img src="https://i.pinimg.com/originals/c9/22/68/c92268a9dcad00c73e04e8e503b22b13.gif" width="100%" height="60px" style="object-fit: cover; opacity: 0.7;" />
+  <!-- Clean, unified dark mode icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,mongodb,aws,kubernetes,docker,tensorflow,pytorch,linux,arch,arduino&theme=dark" />
+  </a>
+</div>
+
+---
+
+### ◾ Core Architecture & Systems
+
+<details>
+<summary><b> ⚡ Real-Time Vision & Hazard Detection </b></summary>
+<br>
+Architected an ultra-low latency WebRTC hazard detection pipeline utilizing Florence-2 and a quantized Moondream2 model[cite: 1]. Optimized to execute entirely and deterministically within a strict 3.5GB edge VRAM limit[cite: 1].
+</details>
+
+<details>
+<summary><b> 🧠 Framework-Free RAG Engine </b></summary>
+<br>
+Engineered a custom Python RAG pipeline processing UIET department data directly from a local <code>data.json</code> file, bypassing live APIs for zero-latency retrieval via Llama 3.2 and Gemini[cite: 1]. Implemented automated backups for system, <code>Desktop</code>, and <code>Downloads</code> directories.
+</details>
+
+<details>
+<summary><b> ⚙️ Advanced Edge Robotics </b></summary>
+<br>
+Tech Lead at Ancome Vortex Robotics[cite: 1]. Back-to-back Robo Rumble Champion ('25, '26)[cite: 1]. Built a networked slider interface for real-time Kp, Ki, and Kd tuning on ESP32/STM32 hardware. Engineered dynamic firmware logic to automatically bypass faulty hardware (e.g., dead S8 IR sensors) during live execution.
+</details>
+
+<details>
+<summary><b> ☁️ Cloud Infrastructure & Migrations </b></summary>
+<br>
+Migrated Samwaad event databases from Firebase into scalable Kubernetes clusters[cite: 1]. Developed a Node.js/AWS EC2 backend with bi-directional GitHub sync[cite: 1]. Streamlined repositories by eliminating automated branch protection in favor of manual admin control to reduce bloat.
+</details>
+
+<details>
+<summary><b> 🎙️ Air-Gapped Automation Agent </b></summary>
+<br>
+Built an autonomous Playwright agent to intercept virtual audio streams[cite: 1]. Engineered a real-time transcription and speaker diarization pipeline using local Whisper and Pyannote.audio models, structured temporally via ChromaDB[cite: 1].
+</details>
+
+<br>
+
+<div align="center">
+  <!-- Minimalist view counter matching the monochromatic theme -->
+  <img src="https://komarev.com/ghpvc/?username=Abhishek40905&label=VIEWS&color=000000&style=for-the-badge" />
 </div>
