@@ -39,52 +39,46 @@
 
     <!-- RIGHT COLUMN: THE MESMERIZING HUD -->
     <td valign="top" width="65%" style="border: none;">
-      
-      <!-- Time-Shifting Gradient Banner -->
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=header&text=ACTIVE_DIRECTIVES&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
-      <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=header&text=ACTIVE_DIRECTIVES&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
+  <br><br>
 
-      <!-- Project 1: Neon Pink Data Node -->
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=FF007F&vCenter=true&lines=❖+FRAMEWORK-FREE+RAG+ENGINE" /><br>
-      <img src="https://img.shields.io/badge/Llama_3.2-1A1A1A?style=flat-square&logo=meta&logoColor=FF007F" />
-      <img src="https://img.shields.io/badge/Local_JSON-1A1A1A?style=flat-square&logo=json&logoColor=FF007F" />
-      <blockquote>
-        Offline <b>Llama 3.2</b> processing strictly via local <code>data.json</code>—bypassing live APIs for zero-latency retrieval[cite: 1]. Backup scripts seamlessly encompass <code>Desktop</code> and <code>Downloads</code> directories.
-      </blockquote>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=FF007F&vCenter=true&lines=❖+FRAMEWORK-FREE+RAG+ENGINE" /><br>
+  <img src="https://img.shields.io/badge/Llama_3.2-1A1A1A?style=flat-square&logo=meta&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Local_JSON-1A1A1A?style=flat-square&logo=json&logoColor=FF007F" />
+  <blockquote>
+    Offline <b>Llama 3.2</b> processing strictly via local <code>data.json</code>—bypassing live APIs for zero-latency retrieval. Backup scripts seamlessly encompass <code>Desktop</code> and <code>Downloads</code> directories.
+  </blockquote>
 
-      <!-- Project 2: Electric Cyan Data Node -->
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=00E5FF&vCenter=true&lines=❖+EDGE_ROBOTICS+&+HARDWARE" /><br>
-      <img src="https://img.shields.io/badge/ESP32_/_STM32-1A1A1A?style=flat-square&logo=espressif&logoColor=00E5FF" />
-      <img src="https://img.shields.io/badge/PID_Control-1A1A1A?style=flat-square&logo=cplusplus&logoColor=00E5FF" />
-      <blockquote>
-        Back-to-back <i>Robo Rumble Champion ('25, '26)</i>[cite: 1]. Engineered real-time PID slider controls. Resilient firmware dynamically bypasses faulty/dead hardware (S8 IR sensor) mid-execution.
-      </blockquote>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=00E5FF&vCenter=true&lines=❖+EDGE_ROBOTICS+&+HARDWARE" /><br>
+  <img src="https://img.shields.io/badge/ESP32_/_STM32-1A1A1A?style=flat-square&logo=espressif&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/PID_Control-1A1A1A?style=flat-square&logo=cplusplus&logoColor=00E5FF" />
+  <blockquote>
+    Back-to-back <i>Robo Rumble Champion ('25, '26)</i>. Engineered real-time PID slider controls. Resilient firmware dynamically bypasses faulty/dead hardware (S8 IR sensor) mid-execution.
+  </blockquote>
 
-      <!-- Project 3: Deep Purple Data Node -->
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=B026FF&vCenter=true&lines=❖+WEBRTC+HAZARD+DETECTION" /><br>
-      <img src="https://img.shields.io/badge/WebRTC-1A1A1A?style=flat-square&logo=webrtc&logoColor=B026FF" />
-      <img src="https://img.shields.io/badge/Florence--2-1A1A1A?style=flat-square&logo=python&logoColor=B026FF" />
-      <blockquote>
-        Ultra-low latency physical hazard pipeline[cite: 1]. Forces heavy dual-VLMs (Florence-2 + Moondream2) to execute flawlessly within a strict <b>3.5GB edge VRAM</b> limit[cite: 1].
-      </blockquote>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=B026FF&vCenter=true&lines=❖+WEBRTC+HAZARD+DETECTION" /><br>
+  <img src="https://img.shields.io/badge/WebRTC-1A1A1A?style=flat-square&logo=webrtc&logoColor=B026FF" />
+  <img src="https://img.shields.io/badge/Florence--2-1A1A1A?style=flat-square&logo=python&logoColor=B026FF" />
+  <blockquote>
+    Ultra-low latency physical hazard pipeline. Forces heavy dual-VLMs (Florence-2 + Moondream2) to execute flawlessly within a strict <b>3.5GB edge VRAM</b> limit.
+  </blockquote>
 
-      <!-- Project 4: Warning Yellow Data Node -->
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=FFE600&vCenter=true&lines=❖+AIR_GAPPED+AUDIO+AGENT" /><br>
-      <img src="https://img.shields.io/badge/Playwright-1A1A1A?style=flat-square&logo=playwright&logoColor=FFE600" />
-      <img src="https://img.shields.io/badge/Whisper-1A1A1A?style=flat-square&logo=openai&logoColor=FFE600" />
-      <blockquote>
-        Autonomous Playwright agent intercepting virtual streams[cite: 1]. Orchestrates real-time <b>Whisper</b> transcription and speaker diarization, temporally mapped via ChromaDB[cite: 1].
-      </blockquote>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=FFE600&vCenter=true&lines=❖+AIR_GAPPED+AUDIO+AGENT" /><br>
+  <img src="https://img.shields.io/badge/Playwright-1A1A1A?style=flat-square&logo=playwright&logoColor=FFE600" />
+  <img src="https://img.shields.io/badge/Whisper-1A1A1A?style=flat-square&logo=openai&logoColor=FFE600" />
+  <blockquote>
+    Autonomous Playwright agent intercepting virtual streams. Orchestrates real-time <b>Whisper</b> transcription and speaker diarization, temporally mapped via ChromaDB.
+  </blockquote>
 
-      <!-- Project 5: Matrix Green Data Node -->
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=00FF66&vCenter=true&lines=❖+SCALABLE+CLOUD+INFRA" /><br>
-      <img src="https://img.shields.io/badge/Kubernetes-1A1A1A?style=flat-square&logo=kubernetes&logoColor=00FF66" />
-      <img src="https://img.shields.io/badge/AWS_EC2-1A1A1A?style=flat-square&logo=amazonwebservices&logoColor=00FF66" />
-      <blockquote>
-        Migrated Firebase databases to scalable <b>Kubernetes</b> clusters[cite: 1]. Maintained AWS EC2 GitHub sync, with admins handling branch protection strictly manually to eliminate repository bloat[cite: 1].
-      </blockquote>
-      
-    </td>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=19&color=00FF66&vCenter=true&lines=❖+SCALABLE+CLOUD+INFRA" /><br>
+  <img src="https://img.shields.io/badge/Kubernetes-1A1A1A?style=flat-square&logo=kubernetes&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/AWS_EC2-1A1A1A?style=flat-square&logo=amazonwebservices&logoColor=00FF66" />
+  <blockquote>
+    Migrated Firebase databases to scalable <b>Kubernetes</b> clusters. Maintained AWS EC2 GitHub sync, with admins handling branch protection strictly manually to eliminate repository bloat.
+  </blockquote>
+  
+</td>
     
   </tr>
 </table>
